@@ -76,7 +76,7 @@ const underTwenty = characters.filter((character)=>{
 console.log(underTwenty); //出力[{id: 1,name: 'にんじゃわんこ',age: 14},{id: 2,name: 'ベイビーわんこ',age: 5}]
 
 
-//⑤apメソッド
+//⑤mapメソッド
 const numbers = [1, 2, 3, 4];
 
 // 定数numbersにmapメソッドを使って配列を作り、定数doubledNumbersに代入してください
